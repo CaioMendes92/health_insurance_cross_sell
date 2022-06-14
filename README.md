@@ -72,16 +72,16 @@ Será utilizado o método cíclico CRISP-DM (Cross-Industry Process - Data Scien
 **1.** Usuários com automóveis com menos de um ano de uso possuem menos interesse em contratar um seguro.
 **VERDADEIRO.** Usuários com menos de um ano de uso possuem menos interesse em contratar um seguro. Usuários com carros entre 1 e 2 anos tem mais interesse em seguros.
 
-![alt text](https://github.com/CaioMendes92/RossmannStoreSales/blob/main/img/insight1.png?raw=true)
+![alt text](https://github.com/CaioMendes92/health_insurance_cross_sell/blob/main/img/insight1.png?raw=true)
 
 **2.** A maioria dos usuários que desejam um seguro de saúde são mulheres.
 **Falso.** Homens desejam mais seguros que mulheres
-![alt text](https://github.com/CaioMendes92/RossmannStoreSales/blob/main/img/insight2.png?raw=true)
+![alt text](https://github.com/CaioMendes92/health_insurance_cross_sell/blob/main/img/insight2.png?raw=true)
 
 **3.**Usuários com idade maior que 40, estão mais interessadas em contratar um seguro.
 **Verdadeiro.** Usuários com mais de 40 anos tem interesse em contratar um seguro.
-![alt text](https://github.com/CaioMendes92/RossmannStoreSales/blob/main/img/insight3a.png?raw=true)
-![alt text](https://github.com/CaioMendes92/RossmannStoreSales/blob/main/img/insight3b.png?raw=true)
+![alt text](https://github.com/CaioMendes92/health_insurance_cross_sell/blob/main/img/insight3a.png?raw=true)
+![alt text](https://github.com/CaioMendes92/health_insurance_cross_sell/blob/main/img/insight3b.png?raw=true)
 
 ## 5. Modelos de Machine Learning
 
@@ -96,7 +96,7 @@ Os modelos utilizados neste passo foram:
 ## 6. Performance dos modelos de machine learning
 A performance foi avaliada a partir do Precision @k e pelo Recall @k. A performance real dos modelos (após o Cross-Validation) é dada pela média dos erros +/- o desvio padrão do erro,
 
-![alt text](https://github.com/CaioMendes92/RossmannStoreSales/blob/main/img/modelos_cv.png?raw=true)
+![alt text](https://github.com/CaioMendes92/health_insurance_cross_sell/blob/main/img/modelos_cv.png?raw=true)
 
 O algoritmo escolhido foi o XG Boost (Recall: 91,42%).
 
