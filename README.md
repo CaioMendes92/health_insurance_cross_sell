@@ -101,5 +101,5 @@ A performance foi avaliada a partir do Precision @k e pelo Recall @k. A performa
 O algoritmo escolhido foi o XG Boost (Recall: 91,42%).
 
 ## 7. Performance após ajuste fino dos hiperparâmetros (Hyperparameter Fine Tuning)
-
+![alt text](https://github.com/CaioMendes92/health_insurance_cross_sell/blob/main/img/output_final.png?raw=true)
 
