@@ -103,3 +103,4 @@ O algoritmo escolhido foi o XG Boost (Recall: 91,42%).
 ## 7. Performance após ajuste fino dos hiperparâmetros (Hyperparameter Fine Tuning)
 ![alt text](https://github.com/CaioMendes92/health_insurance_cross_sell/blob/main/img/output_final.png?raw=true)
 
+Ou seja, baseado nos padrões encontrados pela XG Boost, o cliente cujo id é de 172765 é o melhor candidato a se ligar. O segundo melhor é o 48198 e assim por diante.
